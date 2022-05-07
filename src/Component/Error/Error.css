@@ -1,0 +1,19 @@
+
+
+.content-error{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.content-error p{
+    padding: 20px;
+    width: 50%;
+    background: red;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}

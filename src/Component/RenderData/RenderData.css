@@ -1,0 +1,17 @@
+
+.content-item{
+    width: 100%;
+    padding: 6px;
+    text-align: center;
+    background: #000a788c;
+    margin-top: 10px;
+    color: white;
+    border-radius: 14px;
+    transition: .3s ease-in-out;
+    /*opacity: 0;*/
+
+}
+.content-item p{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
